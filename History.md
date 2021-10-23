@@ -26,3 +26,5 @@
 * sudo apt-get install typora
 *  sudo apt-get install cmake xz-utils build-essential wget -y
 *  sudo apt-get install llvm clang flex bison -y
+*  sudo apt-get install python3 python3-venv python3-pip
+*	pycharm
