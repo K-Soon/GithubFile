@@ -28,3 +28,6 @@
 *  sudo apt-get install llvm clang flex bison -y
 *  sudo apt-get install python3 python3-venv python3-pip
 *	pycharm
+* sudo apt install python3-pip
+* pip3 install virtualenv
+* docker :: docs.docker.com/engine/install/ubuntu
